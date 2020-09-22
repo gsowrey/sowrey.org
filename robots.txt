@@ -1,0 +1,7 @@
+Sitemap: https://sowrey.org/sitemap.xml
+Sitemap: https://sowrey.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://sowrey.org/sitemap.xml
