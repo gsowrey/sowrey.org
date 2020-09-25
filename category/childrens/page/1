@@ -13,7 +13,7 @@
 <!-- Jetpack Site Verification Tags -->
 <meta name="google-site-verification" content="2ICP0N28tcpnQNZpKZdiXVgreUhhotjXELBtwsfCgFQ" />
 
-<!-- All In One SEO Pack 3.7.0[218,266] -->
+<!-- All In One SEO Pack 3.7.1[218,266] -->
 <meta name="robots" content="noindex,follow" />
 
 <script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://sowrey.wp/#organization","url":"http://sowrey.wp/","name":"Let Me Tell You A Story","sameAs":[]},{"@type":"WebSite","@id":"http://sowrey.wp/#website","url":"http://sowrey.wp/","name":"Let Me Tell You A Story","publisher":{"@id":"http://sowrey.wp/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://sowrey.wp/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"http://sowrey.wp/category/childrens/#collectionpage","url":"http://sowrey.wp/category/childrens/","inLanguage":"en-US","name":"Childrens","isPartOf":{"@id":"http://sowrey.wp/#website"},"breadcrumb":{"@id":"http://sowrey.wp/category/childrens/#breadcrumblist"}},{"@type":"BreadcrumbList","@id":"http://sowrey.wp/category/childrens/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"http://sowrey.wp/","url":"http://sowrey.wp/","name":"Let me tell you a story"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"http://sowrey.wp/category/childrens/","url":"http://sowrey.wp/category/childrens/","name":"Childrens"}}]}]}</script>
@@ -30,7 +30,7 @@
 <link rel="alternate" type="application/rss+xml" title="Let Me Tell You A Story &raquo; Feed" href="http://sowrey.wp/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Let Me Tell You A Story &raquo; Comments Feed" href="http://sowrey.wp/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Let Me Tell You A Story &raquo; Childrens Category Feed" href="http://sowrey.wp/category/childrens/feed/" />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.4.2/wp-includes/css/dist/block-library/style.min.css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/block-library/style.min.css' media='all' />
 <style id='wp-block-library-inline-css'>
 .has-text-align-justify{text-align:justify;}
 </style>
@@ -41,10 +41,9 @@
 <link rel='stylesheet' id='twentytwenty-print-style-css'  href='http://sowrey.wp/wp-content/themes/sowrey/print.css?ver=1.1' media='print' />
 <link rel='stylesheet' id='photonic-css'  href='http://sowrey.wp/wp-content/plugins/photonic/include/css/front-end/combo-slider/photonic-swipebox.min.css?ver=20200523-80642' media='all' />
 <link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/8.9.1/css/jetpack.css' media='all' />
-<script src='http://sowrey.wp/wp-content/themes/sowrey/assets/js/index.js?ver=1.1' async></script>
-<link rel='https://api.w.org/' href='http://sowrey.wp/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sowrey.wp/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 5.4.2" />
+<script src='http://sowrey.wp/wp-content/themes/sowrey/assets/js/index.js?ver=1.1' id='twentytwenty-js-js' async></script>
+<link rel="https://api.w.org/" href="http://sowrey.wp/wp-json/" /><link rel="alternate" type="application/json" href="http://sowrey.wp/wp-json/wp/v2/categories/30" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sowrey.wp/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 5.5.1" />
 <style type='text/css'>img#wpstats{display:none}</style>	<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
 	
 <!-- Jetpack Open Graph Tags -->
@@ -231,7 +230,7 @@ ul.display-posts-listing span.excerpt {
 
 			<div class="archive-header-inner section-inner medium">
 
-									<h1 class="archive-title"><span class="color-accent">Category:</span> Childrens</h1>
+									<h1 class="archive-title"><span class="color-accent">Category:</span> <span>Childrens</span></h1>
 				
 				
 			</div><!-- .archive-header-inner -->
@@ -645,8 +644,9 @@ ul.display-posts-listing span.excerpt {
 
 						
 							<div class="footer-widgets column-one grid-item">
-								<div class="widget widget_categories"><div class="widget-content"><h2 class="widget-title subheading heading-size-3">Genres</h2>		<ul>
-				<li class="cat-item cat-item-30 current-cat"><a aria-current="page" href="http://sowrey.wp/category/childrens/">Childrens</a> (5)
+								<div class="widget widget_categories"><div class="widget-content"><h2 class="widget-title subheading heading-size-3">Genres</h2>
+			<ul>
+					<li class="cat-item cat-item-30 current-cat"><a aria-current="page" href="http://sowrey.wp/category/childrens/">Childrens</a> (5)
 </li>
 	<li class="cat-item cat-item-31"><a href="http://sowrey.wp/category/drama/">Drama</a> (1)
 </li>
@@ -662,15 +662,19 @@ ul.display-posts-listing span.excerpt {
 </li>
 	<li class="cat-item cat-item-34"><a href="http://sowrey.wp/category/science-fiction/">Science Fiction</a> (39)
 </li>
-	<li class="cat-item cat-item-38"><a href="http://sowrey.wp/category/soundtrack/" title="The Soundtrack of my Life">The Soundtrack of my Life</a> (16)
+	<li class="cat-item cat-item-38"><a href="http://sowrey.wp/category/soundtrack/" title="The Soundtrack of my Life">The Soundtrack of my Life</a> (19)
 </li>
-		</ul>
+			</ul>
+
 			</div></div>							</div>
 
 						
 						
 							<div class="footer-widgets column-two grid-item">
-										<div class="widget widget_recent_entries"><div class="widget-content">		<h2 class="widget-title subheading heading-size-3">Recent Stories</h2>		<ul>
+								
+		<div class="widget widget_recent_entries"><div class="widget-content">
+		<h2 class="widget-title subheading heading-size-3">Recent Stories</h2>
+		<ul>
 											<li>
 					<a href="http://sowrey.wp/childrens/the-girl-who-went-up-a-mountain/">The Girl Who Went Up A Mountain</a>
 									</li>
@@ -702,6 +706,7 @@ ul.display-posts-listing span.excerpt {
 					<a href="http://sowrey.wp/non-fiction/chasing-a-sunset/">Chasing a Sunset</a>
 									</li>
 					</ul>
+
 		</div></div><div class="widget widget_eu_cookie_law_widget"><div class="widget-content"><div
 	class="hide-on-button"
 	data-hide-timeout="30"
@@ -754,7 +759,7 @@ To find out more, including how to control cookies, see here:
 
 			</footer><!-- #site-footer -->
 
-		<script src='https://c0.wp.com/p/jetpack/8.9.1/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js'></script>
+		<script src='https://c0.wp.com/p/jetpack/8.9.1/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js' id='eu-cookie-law-script-js'></script>
 	<script>
 	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 	</script>
