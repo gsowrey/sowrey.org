@@ -30,7 +30,7 @@
 <link rel="alternate" type="application/rss+xml" title="Let Me Tell You A Story &raquo; Feed" href="http://sowrey.wp/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Let Me Tell You A Story &raquo; Comments Feed" href="http://sowrey.wp/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Let Me Tell You A Story &raquo; Photo Essay Category Feed" href="http://sowrey.wp/category/photo-essay/feed/" />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/block-library/style.min.css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.6/wp-includes/css/dist/block-library/style.min.css' media='all' />
 <style id='wp-block-library-inline-css'>
 .has-text-align-justify{text-align:justify;}
 </style>
@@ -43,7 +43,7 @@
 <link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/8.9.1/css/jetpack.css' media='all' />
 <script src='http://sowrey.wp/wp-content/themes/sowrey/assets/js/index.js?ver=1.1' id='twentytwenty-js-js' async></script>
 <link rel="https://api.w.org/" href="http://sowrey.wp/wp-json/" /><link rel="alternate" type="application/json" href="http://sowrey.wp/wp-json/wp/v2/categories/33" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sowrey.wp/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 5.5.1" />
+<meta name="generator" content="WordPress 5.6" />
 <style type='text/css'>img#wpstats{display:none}</style>	<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
 	
 <!-- Jetpack Open Graph Tags -->
@@ -414,6 +414,8 @@ ul.display-posts-listing span.excerpt {
 			<ul>
 					<li class="cat-item cat-item-30"><a href="http://sowrey.wp/category/childrens/">Childrens</a> (5)
 </li>
+	<li class="cat-item cat-item-41"><a href="http://sowrey.wp/category/christmas/">Christmas</a> (1)
+</li>
 	<li class="cat-item cat-item-31"><a href="http://sowrey.wp/category/drama/">Drama</a> (1)
 </li>
 	<li class="cat-item cat-item-32"><a href="http://sowrey.wp/category/non-fiction/">Non-fiction</a> (2)
@@ -529,10 +531,10 @@ To find out more, including how to control cookies, see here:
 	<script>
 	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 	</script>
-	<script type='text/javascript' src='https://stats.wp.com/e-202039.js' async='async' defer='defer'></script>
+	<script type='text/javascript' src='https://stats.wp.com/e-202052.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:8.9.1',blog:'20982132',post:'0',tz:'-6',srv:'sowrey.wp'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:8.9.1',blog:'20982132',post:'0',tz:'-7',srv:'sowrey.wp'} ]);
 	_stq.push([ 'clickTrackerInit', '20982132', '0' ]);
 </script>
 
