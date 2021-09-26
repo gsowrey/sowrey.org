@@ -1,0 +1,26 @@
+1632684980
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"stories/novels";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:10:{s:5:"title";s:6:"Novels";s:4:"slug";s:14:"stories-novels";s:4:"date";s:16:"12-01-2020 00:00";s:9:"published";b:1;s:12:"publish_date";s:16:"12-01-2020 00:00";s:7:"visible";b:1;s:7:"process";a:1:{s:4:"twig";b:1;}s:7:"summary";a:3:{s:7:"enabled";b:1;s:6:"format";s:5:"short";s:4:"size";i:250;}s:6:"author";a:1:{s:4:"name";s:7:"sonworf";}s:8:"metadata";a:1:{s:6:"author";s:7:"sonworf";}}s:11:"frontmatter";s:261:"title: Novels
+slug: stories-novels
+date: '12-01-2020 00:00'
+published: true
+publish_date: '12-01-2020 00:00'
+visible: true
+process:
+    twig: true
+summary:
+    enabled: true
+    format: short
+    size: 250
+author:
+    name: sonworf
+metadata:
+    author: sonworf";s:8:"markdown";s:350:"# Novels
+
+Writing any story is difficult, coming up with characters and themes and plot, trying to make it cohesive and even (heavens, forbid!) _interesting_. 
+
+And then I thought it would be a great idea to write a novel. Or a few. 
+
+{% for p in page.find(page.route).children %}
+##[{{ p.title }}]({{p.url}})
+{{ strip_tags(p.summary) }}
+{% endfor %}";}s:7:"storage";a:7:{s:3:"key";s:14:"stories/novels";s:11:"storage_key";s:17:"02.stories/novels";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1632683379;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1632683379;}}s:8:"children";a:1:{s:7:"banshee";b:0;}s:8:"checksum";s:32:"0ccc09553f56051d47cfc834c874a02a";}}

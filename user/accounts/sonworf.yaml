@@ -1,0 +1,11 @@
+state: enabled
+email: geoff@sowrey.org
+fullname: 'Geoff Sowrey'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$XY26OaIVn4J9BZwXzVnZbO6tuO.ScACLc7fJbMDTb3MEWyYvvuth.
