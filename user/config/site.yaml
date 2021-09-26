@@ -1,0 +1,10 @@
+title: Let Me Tell You a Story
+author:
+  name: Geoff Sowrey
+  email: 'geoff@sowrey.org'
+metadata:
+    description: 'A few stories that I have written over the years'
+summary:
+    enabled: true
+    format: short
+    size: 300

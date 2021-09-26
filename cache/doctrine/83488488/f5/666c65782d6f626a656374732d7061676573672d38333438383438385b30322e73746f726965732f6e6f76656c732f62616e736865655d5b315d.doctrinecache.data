@@ -1,0 +1,26 @@
+1632684898
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:22:"stories/novels/banshee";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:10:{s:5:"title";s:11:"The Banshee";s:4:"slug";s:22:"stories-novels-banshee";s:4:"date";s:16:"12-01-2020 00:00";s:9:"published";b:1;s:12:"publish_date";s:16:"12-01-2020 00:00";s:7:"visible";b:1;s:7:"process";a:1:{s:4:"twig";b:1;}s:7:"summary";a:3:{s:7:"enabled";b:1;s:6:"format";s:5:"short";s:4:"size";i:250;}s:6:"author";a:1:{s:4:"name";s:7:"sonworf";}s:8:"metadata";a:1:{s:6:"author";s:7:"sonworf";}}s:11:"frontmatter";s:274:"title: The Banshee
+slug: stories-novels-banshee
+date: '12-01-2020 00:00'
+published: true
+publish_date: '12-01-2020 00:00'
+visible: true
+process:
+    twig: true
+summary:
+    enabled: true
+    format: short
+    size: 250
+author:
+    name: sonworf
+metadata:
+    author: sonworf";s:8:"markdown";s:624:"# The Banshee
+
+Joanna Maria de Leon is one of the Engineers, a group of former engineering students who built the last known pocket of survivors of the Apocalypse. Ten years after the world collapsed around them, their shelter -- the ARCH -- is also falling apart, both the physical structure, and what remains of their civility. Jo clings to hope, willing it to last long enough for their escape, but can she save everyone, let alone herself? 
+
+{% for p in page.find(page.route).children %}
+{% if (count(page.find(p.route).children) == 0) %}
+##[{{ p.title }}]({{p.url}})
+{{ strip_tags(p.summary) }}
+{% endif %}
+{% endfor %}";}s:7:"storage";a:7:{s:3:"key";s:22:"stories/novels/banshee";s:11:"storage_key";s:25:"02.stories/novels/banshee";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1632683297;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1632683297;}}s:8:"children";a:39:{s:21:"the-banshee-chapter-1";b:0;s:21:"the-banshee-chapter-2";b:0;s:21:"the-banshee-chapter-3";b:0;s:21:"the-banshee-chapter-4";b:0;s:21:"the-banshee-chapter-5";b:0;s:21:"the-banshee-chapter-6";b:0;s:21:"the-banshee-chapter-7";b:0;s:21:"the-banshee-chapter-8";b:0;s:21:"the-banshee-chapter-9";b:0;s:22:"the-banshee-chapter-10";b:0;s:22:"the-banshee-chapter-11";b:0;s:22:"the-banshee-chapter-12";b:0;s:22:"the-banshee-chapter-13";b:0;s:22:"the-banshee-chapter-14";b:0;s:22:"the-banshee-chapter-15";b:0;s:22:"the-banshee-chapter-16";b:0;s:22:"the-banshee-chapter-17";b:0;s:22:"the-banshee-chapter-18";b:0;s:22:"the-banshee-chapter-19";b:0;s:22:"the-banshee-chapter-20";b:0;s:22:"the-banshee-chapter-21";b:0;s:22:"the-banshee-chapter-22";b:0;s:22:"the-banshee-chapter-23";b:0;s:22:"the-banshee-chapter-24";b:0;s:22:"the-banshee-chapter-25";b:0;s:22:"the-banshee-chapter-26";b:0;s:22:"the-banshee-chapter-27";b:0;s:22:"the-banshee-chapter-28";b:0;s:22:"the-banshee-chapter-29";b:0;s:22:"the-banshee-chapter-30";b:0;s:22:"the-banshee-chapter-31";b:0;s:22:"the-banshee-chapter-32";b:0;s:22:"the-banshee-chapter-33";b:0;s:22:"the-banshee-chapter-34";b:0;s:22:"the-banshee-chapter-35";b:0;s:22:"the-banshee-chapter-36";b:0;s:22:"the-banshee-chapter-37";b:0;s:22:"the-banshee-chapter-38";b:0;s:22:"the-banshee-chapter-39";b:0;}s:8:"checksum";s:32:"caed760a9bf392aa1d1a5b7162bb152f";}}
