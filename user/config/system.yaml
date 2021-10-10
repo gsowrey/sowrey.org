@@ -8,7 +8,7 @@ force_lowercase_urls: true
 custom_base_url: null
 username_regex: '^[a-z0-9_-]{3,16}$'
 pwd_regex: '(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}'
-intl_enabled: true
+intl_enabled: false
 http_x_forwarded:
   protocol: true
   host: false
