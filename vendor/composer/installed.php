@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => '1.7.23',
+        'version' => '1.7.23.0',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'ed6b60429cbbdd8bb0b006c653005c3904823b48',
+        'reference' => NULL,
         'name' => 'getgrav/grav',
         'dev' => false,
     ),
@@ -110,12 +110,12 @@
             'dev_requirement' => false,
         ),
         'getgrav/grav' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => '1.7.23',
+            'version' => '1.7.23.0',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'ed6b60429cbbdd8bb0b006c653005c3904823b48',
+            'reference' => NULL,
             'dev_requirement' => false,
         ),
         'getgrav/image' => array(
