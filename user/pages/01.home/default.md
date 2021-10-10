@@ -1,6 +1,6 @@
 ---
 # http://learn.getgrav.org/content/headers
-title: Home
+title: Let Me Tell You A Story
 slug: Home
 # menu: Let me tell you a story
 date: 12-01-2018
