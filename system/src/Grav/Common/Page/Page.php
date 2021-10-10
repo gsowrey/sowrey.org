@@ -1680,7 +1680,7 @@ class Page implements PageInterface
 
             // Set the Generator tag
             $metadata = [
-                'generator' => 'GravCMS'
+            //    'generator' => 'GravCMS'
             ];
 
             $config = Grav::instance()['config'];
