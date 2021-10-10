@@ -1,19 +1,7 @@
-title: 'Let Me Tell You a Story'
-default_lang: en
+title: Grav
 author:
-  name: 'Geoff Sowrey'
-  email: geoff@sowrey.org
-taxonomies:
-  - category
-  - tag
+  name: Joe Bloggs
+  email: 'joe@example.com'
 metadata:
-  description: 'A few stories that I have written over the years'
-summary:
-  enabled: true
-  format: short
-  size: 300
-  delimiter: '==='
-redirects: null
-routes: null
-blog:
-  route: /blog
+    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+
