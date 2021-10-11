@@ -1,0 +1,14 @@
+enabled: true
+title_in_menu: '<div style=''font-size: 25px''>menu</div>'
+top_left_icon: 'fas fa-home'
+parents_routable: '1'
+desktop_mode: '1'
+desktop_min_width: 1170
+placeholder: Search...
+footer_icon: 'fab fa-grav fa-2x'
+footer_text: 'GRAV Theme Rana'
+notice:
+  yellow: Info
+  red: Warning
+  blue: Note
+  green: Tip
