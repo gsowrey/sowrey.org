@@ -2,8 +2,9 @@
   {% import _self as macros %}
   {% for p in page.children.visible %}
     {% set active_page = (p.active or p.activeChild) ? 'active' : '' %}
+    {% set home_page = (p.slug == "home") ? 'home'  : '' %}
     <li>
-      <a href="{{ p.url }}" class="{{ active_page }}">
+      <a href="{{ p.url }}" class="{{ active_page }} {{ home_page}}">
         {{ p.menu }}
       </a>
       {% if p.children.visible.count > 0 %}

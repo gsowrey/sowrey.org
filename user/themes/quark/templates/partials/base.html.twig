@@ -49,12 +49,12 @@
                             {% include 'partials/navigation.html.twig' %}
                         {% endblock %}
                         </nav>
-
                         {% if config.plugins.login.enabled and grav.user.username %}
                             <span class="login-status-wrapper"><i class="fa fa-user"></i> {% include 'partials/login-status.html.twig' %}</span>
                         {% endif %}
 
                     </section>
+                    <span>{{site["metadata"]["description"]}}</span>
                 </nav>
             </section>
         </section>
