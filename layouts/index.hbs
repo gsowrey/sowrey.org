@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="/assets/css/main.css" type="style/css" />
+    {{> meta}}
+  </head>
+  <body>
+    {{>navigation }}
+    <div>
+      {{{contents}}}
+    </div>
+    <div>
+       {{#each articles }}
+        <a href="{{path}}"><h3>{{ title }}</h3></a>
+        <p>{{ description }}</p>
+       {{/each }}
+    </div>
+  </body>
+</html>

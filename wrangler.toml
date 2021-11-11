@@ -1,0 +1,10 @@
+name = "sowrey.org"
+type = "webpack"
+account_id = "47b3a8a803ffc006dcf7b70a3a435dfc"
+route = ''
+zone_id = 'd6dbf9fee9e34912b868bd87c2fdbc89'
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./public",entry-point = "workers-site"}
+compatibility_date = "2021-11-10"
