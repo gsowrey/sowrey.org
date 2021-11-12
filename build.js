@@ -14,19 +14,26 @@ Metalsmith(__dirname)
   .source('src')
   .destination('public')
   .use(collections({
-    articles: {
-      pattern: 'stories/*.md',
+    children: {
+      pattern: 'children/*.md',
+    },
+    fiction: {
+      pattern: 'fiction/*.md',
+    },
+    soundtrack: {
+      pattern: 'soundtrack-of-my-life/*.md',
+      sortBy: 'priority',
     },
   }))
   .use(markdown())
   .use(permalinks({
-    pattern: ':collection/:title'
+    pattern: ':collection/:title',
   }))
   .use(layouts({
     engine: 'handlebars',
-    directory: './layouts',
-    default: 'story.html',
-    pattern: ["*/*/*html", "*/*html", "*html"],
+    directory: 'layouts',
+    default: 'story.hbs',
+    pattern: ["*html","**/*.html"],
     partials: {
       navigation: 'partials/navigation',
       meta: 'partials/meta'
