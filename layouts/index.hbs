@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link href="/assets/css/main.css" type="style/css" />
+    <link href="/assets/css/main.css" rel="stylesheet" />
     {{> meta}}
   </head>
   <body>
@@ -10,10 +10,14 @@
       {{{contents}}}
     </div>
     <div>
-       {{#each articles }}
+      <pre>{{site}}</pre>
+      {{#each collections.[soundtrack] }}
+        {{#if @first}}
+        {{else}}
         <a href="{{path}}"><h3>{{ title }}</h3></a>
         <p>{{ description }}</p>
-       {{/each }}
+        {{/if}}
+      {{/each }}
     </div>
   </body>
 </html>

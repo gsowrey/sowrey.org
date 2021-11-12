@@ -1,12 +1,7 @@
 ---
+layout: index.hbs
+permalink: "children"
 title: Stories for Children
-slug: stories-children
-date: '12-01-2020 00:00'
-published: true
-publish_date: '12-01-2020 00:00'
-visible: true
-process:
-    twig: true
 author:
     name: Geoff Sowrey
 metadata:
