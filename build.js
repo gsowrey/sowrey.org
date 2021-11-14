@@ -18,13 +18,20 @@ handlebars.registerHelper("collectionList", function(context,options) {
   //console.log(options.data.root.permalink);
 
   if (options.data.root.permalink !== undefined) {
-    var current = context[options.data.root.permalink];  
-
-    // we'll start pulling out items at index 1 instead of index 0, which is the index file for that section
-    for (var i=1, j=current.length; i<j; i++) {
-      ret = ret + "<li>" + options.fn(current[i]) + "</li>";
+    // gotta make a couple of corrections because of nested values
+    switch (options.data.root.permalink) {
+      case 'novels/the-banshee':
+        options.data.root.permalink = 'banshee';
     }
-  };
+
+    var current = context[options.data.root.permalink];
+    if (current && current !== "undefined") {
+      // we'll start pulling out items at index 1 instead of index 0, which is the index file for that section
+      for (var i=1, j=current.length; i<j; i++) {
+        ret = ret + "<li>" + options.fn(current[i]) + "</li>";
+      }
+    }
+  }
 
   return ret + "</ul>";
 });
@@ -63,7 +70,8 @@ Metalsmith(__dirname)
       pattern: 'novels/*.md',
     },
     banshee: {
-      pattern: 'novels/banshee/*.md',
+      pattern: 'novels/the-banshee/*.md',
+      sortBy: 'priority',
     },
     soundtrack: {
       pattern: 'soundtrack/*.md',

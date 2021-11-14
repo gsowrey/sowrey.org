@@ -1,37 +1,7 @@
 ---
-# http://learn.getgrav.org/content/headers
 title: The Girl Who Went Up A Mountain
-slug: the-girl-who-went-up-a-mountain
-# menu: The Girl Who Went Up A Mountain
-date: 12-01-2020
-published: true
-publish_date: 12-01-2020
-# unpublish_date: 12-01-2020
-# template: false
-# theme: false
-visible: true
-summary:
-    enabled: true
-    format: short
-    size: 250
-taxonomy:
-    migration-status: review
-    category: [Childrens]
-    tag: [adventure,bedtime,girl,adventure,bedtime,girl]
 author: Geoff Sowrey
-metadata:
-    author: Geoff Sowrey
-#      description: Your page description goes here
-#      keywords: HTML, CSS, XML, JavaScript
-#      robots: noindex, nofollow
-#      og:
-#          title: The Rock
-#          type: video.movie
-#          url: http://www.imdb.com/title/tt0117500/
-#          image: http://ia.media-imdb.com/images/rock.jpg
-#  cache_enable: false
-#  last_modified: true
-
+description: Lumi learns to conquer even the biggest obstacles, one small step at a time.
 ---
 
 *For years, I've told my kids bedtime stories. Not ones from a book, these were created in-the-moment, often with nothing more than a single word, in this case: “stars”.*

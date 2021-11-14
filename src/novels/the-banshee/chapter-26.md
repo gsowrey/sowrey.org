@@ -1,36 +1,8 @@
 ---
-# http://learn.getgrav.org/content/headers
 title: The Banshee, Chapter 26
-slug: the-banshee-chapter-26
-# menu: The Banshee: Chapter 26
-date: 23-04-2020
-published: true
-publish_date: 23-04-2020
-# unpublish_date: 23-04-2020
-# template: false
-# theme: false
-visible: true
-summary:
-    enabled: true
-    format: short
-    size: 250
-taxonomy:
-    migration-status: review
-    category: [Novels,Science Fiction,The Banshee]
-    tag: [apocalypse,heroine,work in progress,apocalypse,heroine,work in progress]
+permalink: "novels/the-banshee/chapter-26/"
+priority: 26
 author: Geoff Sowrey
-metadata:
-    author: Geoff Sowrey
-#      description: Your page description goes here
-#      keywords: HTML, CSS, XML, JavaScript
-#      robots: noindex, nofollow
-#      og:
-#          title: The Rock
-#          type: video.movie
-#          url: http://www.imdb.com/title/tt0117500/
-#          image: http://ia.media-imdb.com/images/rock.jpg
-#  cache_enable: false
-#  last_modified: true
 
 ---
 

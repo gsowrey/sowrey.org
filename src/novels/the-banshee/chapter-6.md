@@ -1,36 +1,8 @@
 ---
-# http://learn.getgrav.org/content/headers
 title: The Banshee, Chapter 6
-slug: the-banshee-chapter-6
-# menu: The Banshee: Chapter 6
-date: 20-02-2020
-published: true
-publish_date: 20-02-2020
-# unpublish_date: 20-02-2020
-# template: false
-# theme: false
-visible: true
-summary:
-    enabled: true
-    format: short
-    size: 250
-taxonomy:
-    migration-status: review
-    category: [Novels,Science Fiction,The Banshee]
-    tag: [apocalypse,work in progress,apocalypse,work in progress]
+permalink: "novels/the-banshee/chapter-6/"
+priority: 6
 author: Geoff Sowrey
-metadata:
-    author: Geoff Sowrey
-#      description: Your page description goes here
-#      keywords: HTML, CSS, XML, JavaScript
-#      robots: noindex, nofollow
-#      og:
-#          title: The Rock
-#          type: video.movie
-#          url: http://www.imdb.com/title/tt0117500/
-#          image: http://ia.media-imdb.com/images/rock.jpg
-#  cache_enable: false
-#  last_modified: true
 
 ---
 

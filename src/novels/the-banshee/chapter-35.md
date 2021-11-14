@@ -1,36 +1,8 @@
 ---
-# http://learn.getgrav.org/content/headers
 title: The Banshee, Chapter 35
-slug: the-banshee-chapter-35
-# menu: The Banshee: Chapter 35
-date: 25-04-2020
-published: true
-publish_date: 25-04-2020
-# unpublish_date: 25-04-2020
-# template: false
-# theme: false
-visible: true
-summary:
-    enabled: true
-    format: short
-    size: 250
-taxonomy:
-    migration-status: review
-    category: [Novels,Science Fiction,The Banshee]
-    tag: []
+permalink: "novels/the-banshee/chapter-35/"
+priority: 35
 author: Geoff Sowrey
-metadata:
-    author: Geoff Sowrey
-#      description: Your page description goes here
-#      keywords: HTML, CSS, XML, JavaScript
-#      robots: noindex, nofollow
-#      og:
-#          title: The Rock
-#          type: video.movie
-#          url: http://www.imdb.com/title/tt0117500/
-#          image: http://ia.media-imdb.com/images/rock.jpg
-#  cache_enable: false
-#  last_modified: true
 
 ---
 
