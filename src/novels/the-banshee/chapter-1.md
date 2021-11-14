@@ -1,17 +1,11 @@
 ---
 title: The Banshee, Chapter 1
-description: Chapter 1
+description: Welcome to the ARCH as it continues to fall apart.
 permalink: "novels/the-banshee/chapter-1/"
 priority: 1
 author: Geoff Sowrey
 
 ---
-
-*This is the first chapter from a book I've been writing for … um …* carry the three *… well, since I came up with the idea in my last year of university. I'll publish a chapter every week.*
-
-*Warning: This story is not for children.*
-
-- - - - - -
 
 Joanna Maria de Leon stared up at her bedroom ceiling in the dim light. It hadn't always been her bedroom. It was once her closet. A wonderful walk-in closet for her various outfits … or the ones she had dreamed of having, anyway. It had been a luxury, one afforded to her because she was allowed to design her own room. Not that she'd had the room to herself for very long. The ARCH's population had swelled so quickly that she had moved into the closet, her last real possession, her one privilege for being an Engineer. She was the only one who clung to her entitlement, the others had given up theirs for a small bunkhouse a few levels down. 
 
