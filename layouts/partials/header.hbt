@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <title>Let Me Tell You A Story</title>
+    <link rel="canonical" href="https://sowrey.org/" />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+  </head>
+  <body class="{{permalink}}">
+    <header>
+      <nav>
+        <div>Let Me Tell You A Story</div>
+        <ul>
+          <li><a class="button" href="/">Home</a></li>
+          <li><a class="button" href="/about">About</a></li>
+        </ul>
+      </nav>
+      <h1>{{title}}</h1>
+    </header>

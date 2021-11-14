@@ -1,5 +1,5 @@
 ---
-layout: index.hbs
+#layout: index.hbs
 priority: 0
 title: 'Let Me Tell You A Story'
 author:
@@ -17,5 +17,5 @@ That's what this place is all about: I want to tell new stories. And I hope you'
 - [Stories that are short](/fiction/)
 - [Stories that are much longer](/novels/)
 - [Stories for children](/children/)
-- [Stories that are true](/non-fiction/)
-- [Stories about my life as heard through the music I hear](/soundtrack-of-my-life/)
+- [Stories that are true](/nonfiction/)
+- [Stories about my life as heard through the music I hear](/soundtrack/)

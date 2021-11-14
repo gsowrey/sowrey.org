@@ -1,23 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <link href="/assets/css/main.css" rel="stylesheet" />
-    {{> meta}}
-  </head>
-  <body>
-    {{>navigation }}
-    <div>
+{{>header}}
+    <article>
       {{{contents}}}
-    </div>
-    <div>
-      <pre>{{site}}</pre>
-      {{#each collections.[soundtrack] }}
-        {{#if @first}}
-        {{else}}
-        <a href="{{path}}"><h3>{{ title }}</h3></a>
-        <p>{{ description }}</p>
-        {{/if}}
-      {{/each }}
-    </div>
-  </body>
-</html>
+      <div>
+        {{#collectionList collections}}
+          <a href="/{{path}}"><h3>{{ title }}</h3></a>
+        {{/collectionList}}
+      </div>
+    </article>
+{{>footer}}
