@@ -34,7 +34,7 @@ metadata:
 
 ---
 
-*For years, I've told my kids bedtime stories. Not ones from a book, these were created in-the-moment, often with nothing more than a single word, in this case: “stars”. *
+*For years, I've told my kids bedtime stories. Not ones from a book, these were created in-the-moment, often with nothing more than a single word, in this case: “stars”.*
 
 - - - - - -
 

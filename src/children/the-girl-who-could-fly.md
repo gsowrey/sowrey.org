@@ -34,7 +34,7 @@ metadata:
 
 ---
 
-*When she was about six or seven, all my eldest wanted to do was fly. I remember those years, the dreams I had where I flew, and the unbelievable feeling of freedom and lightness. *
+*When she was about six or seven, all my eldest wanted to do was fly. I remember those years, the dreams I had where I flew, and the unbelievable feeling of freedom and lightness.*
 
 - - - - - -
 
