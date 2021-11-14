@@ -2,6 +2,7 @@
 layout: about.hbs
 priority: 0
 title: 'About'
+permalink: "about"
 author:
     name: 'Geoff Sowrey'
 metadata:
