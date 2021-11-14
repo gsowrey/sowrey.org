@@ -1,0 +1,10 @@
+{{>header}}
+    <article>
+      {{{contents}}}
+      <div>
+        {{#collectionList collections}}
+          <a href="/{{path}}"><h3>{{ title }}</h3></a>
+        {{/collectionList}}
+      </div>
+    </article>
+{{>footer}}
