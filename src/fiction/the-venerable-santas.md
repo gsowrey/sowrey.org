@@ -84,13 +84,13 @@ Mr. Jingles turned and smiled again. “She was dead?” he asked. I nodded. “
 
 The room beyond bore no similarity to anything I could have imagined before or since. It was as if a summer meadow, it's bountiful trees and dappled pond, had been cast into the vastness of an impossibly bright night sky, the nebulae shifting and sliding like fish in a brook, all set to the completeness of a music that could only be felt, not heard. The room was active and restless, urgently needing to do countless unknown things in a rush to complete an unspoken task. Yes I immediately felt at home, with a spirit of infinite love and caring, one that touched me so wholey that I could feel my soul melt, waiting to reform into something else. 
 
-“Welcome,” said a voice that I couldn't hear, a voice of voices from across time, melded in a soft, unfelt breeze. “We near the Hour, the time when the Joy must take Flight to the World, raising the Spirits of Youth and giving Hope where there None.” A vague shape formed in the space like a heavy fog or a chimney of smoke being willed into a human figure. “To Become, you must accept the Fate to bear the Mantle. You will Become the Vessel to contain the Past, to carry the Present, and sustain the Future.” 
+“Welcome,” said a voice that I couldn't hear, a voice of voices from across time, melded in a soft, unfelt breeze. “We near the Hour, the time when the Joy must take Flight to the World, raising the Spirits of Youth and giving Hope where there is None.” A vague shape formed in the space like a heavy fog or a chimney of smoke being willed into a human figure. “To Become, you must accept the Fate to bear the Mantle. You will Become the Vessel to contain the Past, to carry the Present, and sustain the Future.” 
 
 Perhaps there should have been more confusion. If Mr. Jingles had said the same words to me before we had left his office, my remaining questions likely would have rapidly increased. Within the hallowed space, there were answers before the questions, not an assumption so much as a bestowed knowledge that came through with the unheard music. 
 
 “Can you accept the Mantle?” asked the voice.
 
-My mind somehow forgot that I had thought ‘mantle' referred to a fireplace, such as the one we had passed. The lack of confusion allowed my training and my dreams to accept the question. “I can accept.”
+My mind somehow forgot that I had thought ‘mantle' referred to a fireplace, such as the one we had passed. The lack of confusion allowed my training and my dreams to understand the challenge without question . “I can accept.”
 
 The shimmering shape came close and I could almost make out the gentlest, kindest of faces gleaming through the brume. I felt invisible hands on my face as they filled me with a sense of calm.  “You do this willingly and without remorse or doubt.” It wasn't so much a statement or a question as it was a test, a final confirmation. 
 
