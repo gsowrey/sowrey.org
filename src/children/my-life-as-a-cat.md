@@ -1,37 +1,7 @@
 ---
-# http://learn.getgrav.org/content/headers
 title: My Life As A Cat
-slug: my-life-as-a-cat
-# menu: My Life As A Cat
-date: 12-01-2020
-published: true
-publish_date: 12-01-2020
-# unpublish_date: 12-01-2020
-# template: false
-# theme: false
-visible: true
-summary:
-    enabled: true
-    format: short
-    size: 250
-taxonomy:
-    migration-status: review
-    category: [Childrens]
-    tag: [bedtime,day in a life,first person,girl,bedtime,day in a life,first person,girl]
 author: Geoff Sowrey
-metadata:
-    author: Geoff Sowrey
-#      description: Your page description goes here
-#      keywords: HTML, CSS, XML, JavaScript
-#      robots: noindex, nofollow
-#      og:
-#          title: The Rock
-#          type: video.movie
-#          url: http://www.imdb.com/title/tt0117500/
-#          image: http://ia.media-imdb.com/images/rock.jpg
-#  cache_enable: false
-#  last_modified: true
-
+description: Lannie decides to have a feline-iful lazy day.
 ---
 
 *Another story told at bedtime, this came from my daughter who tends to act more like a cat than she does a human.*

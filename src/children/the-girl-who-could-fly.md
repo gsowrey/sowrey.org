@@ -1,36 +1,7 @@
 ---
-# http://learn.getgrav.org/content/headers
 title: The Girl Who Could Fly
-slug: the-girl-who-could-fly
-# menu: The Girl Who Could Fly
-date: 15-01-2020
-published: true
-publish_date: 15-01-2020
-# unpublish_date: 15-01-2020
-# template: false
-# theme: false
-visible: true
-summary:
-    enabled: true
-    format: short
-    size: 250
-taxonomy:
-    migration-status: review
-    category: [Childrens]
-    tag: [bedtime,flying,girl,bedtime,flying,girl]
 author: Geoff Sowrey
-metadata:
-    author: Geoff Sowrey
-#      description: Your page description goes here
-#      keywords: HTML, CSS, XML, JavaScript
-#      robots: noindex, nofollow
-#      og:
-#          title: The Rock
-#          type: video.movie
-#          url: http://www.imdb.com/title/tt0117500/
-#          image: http://ia.media-imdb.com/images/rock.jpg
-#  cache_enable: false
-#  last_modified: true
+description: Loretta doesn't just dream of being able to fly...
 
 ---
 

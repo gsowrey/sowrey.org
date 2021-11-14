@@ -26,6 +26,10 @@ header {
     padding: 0 1rem;
 }
 
+header nav div a {
+    text-decoration: none;
+}
+
 header nav {
     align-items: center;
     display: flex;
@@ -86,11 +90,11 @@ div.copyright {
     border: solid 1px black;
 }
 
-.collectionNav {
+.collectionNav, .collectionList {
     margin-top: 2.5em;
 }
 
-.collectionNav ul {
+.collectionNav ul, .collectionList ul {
     padding: 0;
     list-style: none;
 }
@@ -118,3 +122,10 @@ div.copyright {
     float: right;
     border-radius: 0 2rem 2rem 0;
 } 
+
+.collectionList li {
+    margin-bottom: 1em;
+}
+.collectionList li a {
+    display: block;
+}

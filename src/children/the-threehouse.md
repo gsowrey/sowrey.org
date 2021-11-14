@@ -1,37 +1,7 @@
 ---
-# http://learn.getgrav.org/content/headers
 title: The Threehouse
-slug: the-threehouse
-# menu: The Threehouse
-date: 12-01-2020
-published: true
-publish_date: 12-01-2020
-# unpublish_date: 12-01-2020
-# template: false
-# theme: false
-visible: true
-summary:
-    enabled: true
-    format: short
-    size: 250
-taxonomy:
-    migration-status: review
-    category: [Childrens]
-    tag: [absurd,bedtime,boy,absurd,bedtime,boy]
 author: Geoff Sowrey
-metadata:
-    author: Geoff Sowrey
-#      description: Your page description goes here
-#      keywords: HTML, CSS, XML, JavaScript
-#      robots: noindex, nofollow
-#      og:
-#          title: The Rock
-#          type: video.movie
-#          url: http://www.imdb.com/title/tt0117500/
-#          image: http://ia.media-imdb.com/images/rock.jpg
-#  cache_enable: false
-#  last_modified: true
-
+description: Luke has an unusual neighbour with an unusual home. 
 ---
 
 _When my kids ask me to tell them a story, I don’t get a lot of prep time, sometimes only a few minutes. So when I start to tell a story, I don’t always have an idea of where it’s going to go, and it doesn’t always go well. Every so often, I surprise myself with a story that shouldn’t have worked at all, but did…_

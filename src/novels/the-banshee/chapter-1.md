@@ -1,9 +1,9 @@
 ---
 title: The Banshee, Chapter 1
 description: Chapter 1
+permalink: "novels/the-banshee/chapter-1/"
+priority: 1
 author: Geoff Sowrey
-metadata:
-    author: Geoff Sowrey
 
 ---
 
