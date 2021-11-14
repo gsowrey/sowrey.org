@@ -28,6 +28,23 @@ handlebars.registerHelper("collectionList", function(context,options) {
 
   return ret + "</ul>";
 });
+handlebars.registerHelper("collectionNav", function(context,options) {
+  var ret = '';
+
+  // builds prev/next for stories
+  if (this.collection[0] && this.collection[0] !== "undefined") {
+    ret = '<div class="collectionNav"><ul>';
+    if (this.previous && this.previous.path && this.previous.path !== "undefined") {
+      ret += '<li class="prev"><a href="/' + this.previous.path + '">' + this.previous.title + '</a></li>';
+    }
+    if (this.next && this.next.path && this.next.path !== "undefined") {
+      ret += '<li class="next"><a href="/' + this.next.path + '">' + this.next.title + '</a></li>';
+    }
+    ret += '</ul></div>';
+  }
+  
+  return ret;  
+});
 
 Metalsmith(__dirname)
   .source('src')

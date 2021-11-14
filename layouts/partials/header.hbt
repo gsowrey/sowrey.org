@@ -10,7 +10,7 @@
   <body class="{{permalink}}">
     <header>
       <nav>
-        <div>Let Me Tell You A Story</div>
+        <div><a href="/">Let Me Tell You A Story</a></div>
         <ul>
           <li><a class="button" href="/">Home</a></li>
           <li><a class="button" href="/about">About</a></li>
