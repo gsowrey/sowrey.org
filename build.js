@@ -98,6 +98,10 @@ Metalsmith(__dirname)
       console.error(err)
     }
     else {
+      fs.rename('public/404/index.html', 'public/404.html', function (err) {
+        if (err) throw err
+        console.log('Successfully renamed - AKA moved!')
+      });
       console.log('build completed!');
     }
   });
