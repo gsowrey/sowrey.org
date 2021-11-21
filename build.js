@@ -3,6 +3,7 @@ const markdown = require('metalsmith-markdown');
 const layouts = require('metalsmith-layouts');
 const collections = require('metalsmith-collections');
 const permalinks = require('metalsmith-permalinks');
+const wordcount = require("metalsmith-word-count");
 const handlebars = require('handlebars');
 const fs = require('fs');
 const { exit } = require('process');
@@ -82,6 +83,7 @@ Metalsmith(__dirname)
   .use(permalinks({
     pattern: ':collection/:title',
   }))
+  .use(wordcount({raw:true}))
   .use(layouts({
     engine: 'handlebars',
     directory: 'layouts',
