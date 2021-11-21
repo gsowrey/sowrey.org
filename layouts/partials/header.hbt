@@ -52,12 +52,17 @@
           margin-left: 20px;
       }
 
-      h1 {
+      h1,h2 {
           text-align: center;
           padding-bottom: 2rem;
+          line-height: 1.138888889;
+      }
+      h1 {
           font-size: 4.4rem;
           font-weight: 800;
-          line-height: 1.138888889;
+      }
+      h2 {
+          padding-top: 2rem;
       }
 
       @media only screen and (max-width: 600px) {
@@ -137,6 +142,16 @@
       .collectionList li a {
           display: block;
       }
+
+      .metrics {
+        font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 1rem;
+        background-color: #fff;
+        border-radius: 25px;
+        padding: 5px;
+        text-align: center;
+        margin: 0 auto;
+        }
     </style>
   </head>
   <body class="{{permalink}}">

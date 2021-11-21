@@ -1,5 +1,5 @@
 ---
-#layout: index.hbs
+layout: index.hbs
 priority: 0
 title: 'Let Me Tell You A Story'
 author:
