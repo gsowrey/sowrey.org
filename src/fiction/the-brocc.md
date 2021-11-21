@@ -819,9 +819,9 @@ Aedre tried to repeat the word, but struggled with the unfamiliar sounds. She lo
 
 "I did not have much of a choice," he laughed. "Hlaford gave me the name the first time I came to the burh. It stuck to me like pitch." 
 
-"Maybe because you looked like a badger, too," she smiled. "Why do you tell me this now? You do not use the name." 
+“From what we were told, you were as ferocious as a badger in that battle. Your armour makes you look like one, too,” she smiled. “Why do you tell me this now? You do not use your real name.” 
 
-"Because you deserve to know," he said and stood up, then held out his hand to help his wife up. 
+“Because you deserve to know, and it is long overdue that I told you,” he said and stood up, then held out his hand to help his wife up. 
 
 "It is an odd name," she confirmed with a grunt as she rose. "Remind me, where are you from, again?" 
 
