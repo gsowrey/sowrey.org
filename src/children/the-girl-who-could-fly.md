@@ -47,7 +47,7 @@ Loretta leapt off her bed and went to her book back, and pulled out her history 
 
 She soon found herself staring at the clouds on the ceiling again, the textbook laid flat on her lap. It wasn't that the textbook was boring, it was … well, the story was boring. It was hard to learn when there was nothing for Loretta to relate to. She closed her eyes and sighed, long and softly. She felt restful, even a bit sleepy.
 
-Why was it so hard for Trina to believe that Loretta could fly? Had Trina never flown before? The more Loretta thought about it, the more it made sense: Trina probably hadn't flown before. *Anyone *who had flown wouldn't have objected so much. 
+Why was it so hard for Trina to believe that Loretta could fly? Had Trina never flown before? The more Loretta thought about it, the more it made sense: Trina probably hadn't flown before. *Anyone* who had flown wouldn't have objected so much. 
 
 Loretta popped her eyes open, and looked at the clouds drift across her ceiling. The grasses on her walls swayed in the gentle breeze, and the ladybugs buzzed from grass to flower to bush, across the walls. Of course Loretta could fly. And the only way that Trina would believe that Loretta could fly was for Loretta to show Trina! 
 
