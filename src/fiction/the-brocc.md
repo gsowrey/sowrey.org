@@ -15,7 +15,7 @@ _Although I shouldn't probably have to say it, I will: this is alternative histo
 
 ---
 
-## Jarrow, 2008 ##
+## Jarrow, 2011 ##
 
 The morning at Jarrow was bright but cool, though the forecast promised heat. The sun's burned over the massive carparks of the Port of Tyne, baking thousands of cars awaiting shipment to points abroad. In the little carpark just to the west, across the tidal River Don, the television program crew's own cars were being unpacked, equipment retrieved for the day's work ahead. They joked amongst themselves about the discoveries awaiting them, ribaled each other as long-time colleagues often did. 
 
@@ -91,7 +91,7 @@ Maxwell closed his eyes in resignation. "Double shift, again?"
 
 Maxwell sighed again. "Fine. I apparently need the quid, anyway."
 
-## Jarrow, 2008 ##
+## Jarrow, 2011 ##
 
 "Mick!" called out Tony as he hurried walked. Mick was the show's most regular archeologist, and particularly desired on the shoot as he specialized in the Early Medieval period. He was, as usual, dressed in light blue jeans and his trademark bright coloured striped jumper. His long, frizzy white hair blew in the breeze, a regular issue for the camera crew as he had to stand in such a way as not to get the hair in his face when speaking. "I don't think we could have asked for better weather for today's dig ... but I do have to ask," he paused for a dramatic moment, "why are we here? Hasn't Jarrow been _thoroughly_ dug up?"
 
@@ -221,7 +221,7 @@ Above the table was the overhead crane, which carried a large, heavy ring that w
 
 To be more accurate, the ring fell around them, as Maxwell and the badger had jumped into the ring's centre space. However, as the ring fell with a heavy thud to the ground, shaking several things around it, Maxwell was nowhere to be seen. He, and the badger, had vanished. 
 
-## Jarrow, 2008 ##
+## Jarrow, 2011 ##
 
 "What do you have, Phil?" asked Tony as he approached a neatly-dug trench. Rectangular, roughly ten metres long and three metres wide, it was meant to capture the full width of what the believed to be the entrance, and some of the adjoining enclosure ditch. 
 
@@ -313,7 +313,7 @@ The man seemed to understand, and said several words, before ending with: "Æðe
 
 "Eald Brocc!" announced the man in front of Max, which was repeated by nearly everyone around him. Over and over, all Max could hear was "Brock". Whatever that meant.
 
-## Jarrow, 2008 ##
+## Jarrow, 2011 ##
 
 "It's Day 2 and we've had some interesting challenges on what should be the easiest site we've ever visited," Tony spoke to the camera as he hurried into almost the middle of the field. "Over there," he pointed to Phil's trench, "we've found what looks like the entrance to this fortification, complete with post holes." He spun to face one of the JCBs pulling out some soil not far from him. "Over here, we're unveiling an area that geophys spotted yesterday that might have some good dateable finds. But," he spun to the south and looked towards the ruins, "geophys has been wrestling with a very noisy bit of ground that has, so far, kept its secrets. Time to find out what they've been up to!" He paused a few moments with a grin. "That'll work?" 
 
@@ -395,7 +395,7 @@ To be fair, Max hadn't initial recognized his path for what it was. He was searc
 
 It was an awful, horrible, long moment as Max's experiences over the previous week sunk in. He had not seen nor heard any planes. Or cars, lorries, trains, or ships. And his radio, up until its battery dying, had steadfastly refused to pick up a signal of any kind on any band. Against all logic, Max could only come to one conclusion. His scream echoed across the countryside.
 
-## Jarrow, 2008 ##
+## Jarrow, 2011 ##
 
 "It's a grave!" Bridgette exclaimed joyfully.
 
@@ -461,7 +461,7 @@ Tordag looked at the torches on the approaching boats as they rapidily divided, 
 
 Cenulf grunted, watching the army of torches spread onto the land. "Go to your son. Tell him to run, run for all of our lives. Tell him to wake Brocc." 
 
-## Jarrow, 2008 ##
+## Jarrow, 2011 ##
 
 "We found bullet casings?" Mat asked. His blue t-shirt bore the yellow logo for the show. The cameras had moved off.  
 
@@ -529,7 +529,7 @@ Brocc's hut was a quarter of an hour's walk from the burh, out at the edge of th
 
 "Wīcingas!"
 
-## Jarrow, 2008 ##
+## Jarrow, 2011 ##
 
 Fifteen people grunted as they gingerly placed the large, flat stone that had sealed the grave Bridgette had uncovered carefully on the ground to the side of the trench. The grave, a rough rectangle of flat vertical stones, had been dug down nearly a hand width, allowing a careful removal of the lid. Under the lid was more dirt, sifted into the space over the millennia, mostly hiding the grave's occupant. Very little was visible beyond some bumps in the otherwise smooth surface of dirt. 
 
@@ -640,7 +640,7 @@ Some of the torches were lobbed over the wall, aimed at the buildings inside, ho
 
 The weakest point in the walls were the gates: logs that had been split and hewn into heavy boards, hinged and held together with thick, rough spikes. Though barricaded with logs and boards and two dozen heavy men to keep the gates closed, a coordinated crowd on the other side started to take runs at the gates, hoping their collective mass would shatter the defense.
 
-## Jarrow, 2008 ##
+## Jarrow, 2011 ##
 
 Tony stood not far from the entrance trench and looked into the camera. "It's a cloudy and cool morning here at Jarrow as we start our final day, and ... well, we're all quite puzzled by the strange things we keep finding. Out to the west," he gestured towards Phil's trench, "we keep finding spent modern bullet casings, but buried right along with thousand year-old relics! And in a grave we found by the church," he and the camera turned to get the ruins in frame, "we have a Saxon burial containing finds that are decidedly _not_ Saxon." The camera swooped and closed in on Tony's face. "And to make matters even weirder, last night, it seems one of the skeleton's teeth was stolen." He walked a few steps to where Mick, Phil, John, and Helen were waiting. "Have we made _any_ sense of this site so far?" 
 
@@ -674,7 +674,7 @@ Aldor came back into the dim light and saw Brocc quickly donning the strange clo
 
 "Stay here," Brocc said carefully, adding something in a tongue Aldor didn't recognize.
 
-## Jarrow, 2008 ##
+## Jarrow, 2011 ##
 
 "Raksha, it's so nice to see you!" Tony announced as he approached the grave. Raksha was another of the field archeologists, the only non-Caucasian who regularly appeared on camera, mostly as a result of her lively attitude. Her long, black hair spilled across her dark-skinned shoulders. "Where's Bridg?" 
 
@@ -742,7 +742,7 @@ This broke the will of the remaining survivors, who with a collective shout, ret
 
 Two of the boats quickly pushed off the shore and feverishly paddled out to the open river. One more was filling and preparing to push off the shore. The other two boats were left abandoned, most of their former occupants having been felled in the field. Brocc fired more shots towards the escaping boats, not caring so much if he hit anything, more to drive home a clear message. And he might have left it at that, had the last departing boat not carelessly tried to jeer. In a final act of warning, Brocc took an iron sphere from a hook on his vest, lit the fuse, and threw it onto the boat. A moment later, a tremendous clapping thud set the boat and its occupants into a fireball. 
 
-## Jarrow, 2008 ##
+## Jarrow, 2011 ##
 
 "I hate to corner you like this, Mick, but do you have a theory for what we've been seeing?" Tony and Mick were standing in the field, the abbey ruins behind them. "None of this is making sense. We've found actual Saxon archeology, but we keep finding modern finds mixed in with the ancient ones. And, if what everyone says is true, those modern finds weren't buried there recently." 
 
@@ -827,7 +827,7 @@ Aedre tried to repeat the word, but struggled with the unfamiliar sounds. She lo
 
 "Far beyond your imagination," said Brocc, "beyond a thousand harvests."
 
-## Jarrow, 2008 ##
+## Jarrow, 2011 ##
 
 "It's not flooding," said Stewart, holding some papers in his hands. The landscape investigator had been on the show many times, and was often a source of indisputable fact, rarely incorrect. His scruffy face smirked uncomfortably through thick glasses. "I've gone over every record of this area for the last sixty years, and there's no signficant flooding events of the surrounding rivers, nothing that would have breeched this area." 
 
@@ -885,9 +885,9 @@ Phil's eyes seemed to roll of their own volition. "Ah, Christ!"
 
 Tim came forward. "May I ask the purpose of your visit? We're trying to film a television programme." 
 
-Willoughby smiled shortly. "I'm here to answer the question." He produced a small folder and opened it to a sheet that contained the picture and background for Corporal Maxwell Stoke. "We believe this it the man you found. He worked for us, and disappeared about eight years ago." 
+Willoughby smiled shortly. "I'm here to answer the question." He produced a small folder and opened it to a sheet that contained the picture and background for Corporal Maxwell Stoke. "We believe this it the man you found. He worked for us, and disappeared about eleven years ago." 
 
-"_Eight years_," Tony repeated. He looked to Jackie. "You said the skeleton was twelve hundred years old. Are we sure it's the same person?" 
+"_Eleven years_," Tony repeated. He looked to Jackie. "You said the skeleton was twelve hundred years old. Are we sure it's the same person?" 
 
 "We have a DNA match," said Willoughby. "Your skeleton is definitely Corporal Stoke." 
 
