@@ -1,6 +1,6 @@
 ---
 title: Diamonds On The Soles Of Her Shoes by Paul Simon
-priority: 14
+storyOrder: 14
 slug: diamonds-on-the-soles-of-her-shoes-by-paul-simon
 # menu: Diamonds On The Soles Of Her Shoes by Paul Simon
 date: 10-04-2020

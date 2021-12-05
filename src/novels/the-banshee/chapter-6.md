@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 6
 permalink: "novels/the-banshee/chapter-6/"
-priority: 6
+storyOrder: 6
 author: Geoff Sowrey
 
 ---

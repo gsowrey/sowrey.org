@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 30
 permalink: "novels/the-banshee/chapter-30/"
-priority: 30
+storyOrder: 30
 author: Geoff Sowrey
 
 ---

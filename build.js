@@ -4,6 +4,7 @@ const layouts = require('metalsmith-layouts');
 const collections = require('metalsmith-collections');
 const permalinks = require('metalsmith-permalinks');
 const wordcount = require("metalsmith-word-count");
+const sitemap = require("metalsmith-sitemap");
 const handlebars = require('handlebars');
 const fs = require('fs');
 const { exit } = require('process');
@@ -72,11 +73,11 @@ Metalsmith(__dirname)
     },
     banshee: {
       pattern: 'novels/the-banshee/*.md',
-      sortBy: 'priority',
+      sortBy: 'storyOrder',
     },
     soundtrack: {
       pattern: 'soundtrack/*.md',
-      sortBy: 'priority',
+      sortBy: 'storyOrder',
     },
   }))
   .use(markdown())
@@ -93,6 +94,10 @@ Metalsmith(__dirname)
       navigation: 'partials/navigation',
       meta: 'partials/meta'
     }
+  }))
+  .use(sitemap({
+    hostname: 'https://sowrey.org/',
+    priority: 0.5
   }))
   .build(function (err, files) {
     //console.log(files);

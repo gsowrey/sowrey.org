@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 26
 permalink: "novels/the-banshee/chapter-26/"
-priority: 26
+storyOrder: 26
 author: Geoff Sowrey
 
 ---

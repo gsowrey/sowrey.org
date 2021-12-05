@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 27
 permalink: "novels/the-banshee/chapter-27/"
-priority: 27
+storyOrder: 27
 author: Geoff Sowrey
 
 ---

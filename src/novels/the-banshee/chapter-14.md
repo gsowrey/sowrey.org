@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 14
 permalink: "novels/the-banshee/chapter-14/"
-priority: 14
+storyOrder: 14
 author: Geoff Sowrey
 
 ---

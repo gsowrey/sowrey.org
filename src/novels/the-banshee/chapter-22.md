@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 22
 permalink: "novels/the-banshee/chapter-22/"
-priority: 22
+storyOrder: 22
 author: Geoff Sowrey
 
 ---

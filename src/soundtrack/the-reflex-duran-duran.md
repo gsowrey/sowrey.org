@@ -1,6 +1,6 @@
 ---
 title: The Reflex by Duran Duran
-priority: 11
+storyOrder: 11
 slug: the-reflex-by-duran-duran
 # menu: The Reflex by Duran Duran
 date: 25-03-2020

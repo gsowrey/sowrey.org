@@ -1,6 +1,6 @@
 ---
 title: Tweeter and the Monkey Man by the Traveling Wilburys
-priority: 16
+storyOrder: 16
 slug: tweeter-and-the-monkey-man-by-the-traveling-wilburys
 # menu: Tweeter and the Monkey Man by the Traveling Wilburys
 date: 24-09-2020

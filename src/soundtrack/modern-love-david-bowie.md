@@ -1,6 +1,6 @@
 ---
 title: Modern Love by David Bowie
-priority: 6
+storyOrder: 6
 slug: modern-love-david-bowie
 # menu: Modern Love by David Bowie
 date: 22-02-2020

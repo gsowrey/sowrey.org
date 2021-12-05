@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 12
 permalink: "novels/the-banshee/chapter-12/"
-priority: 12
+storyOrder: 12
 author: Geoff Sowrey
 
 ---

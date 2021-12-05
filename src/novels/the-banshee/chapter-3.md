@@ -2,7 +2,7 @@
 title: The Banshee, Chapter 3
 description: Jo finds what she needs for repairs, though it nearly kills her in the process.
 permalink: "novels/the-banshee/chapter-3/"
-priority: 3
+storyOrder: 3
 author: Geoff Sowrey
 
 ---

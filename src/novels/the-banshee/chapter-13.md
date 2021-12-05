@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 13
 permalink: "novels/the-banshee/chapter-13/"
-priority: 13
+storyOrder: 13
 author: Geoff Sowrey
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 38
 permalink: "novels/the-banshee/chapter-38/"
-priority: 38
+storyOrder: 38
 author: Geoff Sowrey
 
 ---

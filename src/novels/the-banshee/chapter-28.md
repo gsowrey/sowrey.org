@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 28
 permalink: "novels/the-banshee/chapter-28/"
-priority: 28
+storyOrder: 28
 author: Geoff Sowrey
 
 ---

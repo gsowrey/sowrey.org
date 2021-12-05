@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 37
 permalink: "novels/the-banshee/chapter-37/"
-priority: 37
+storyOrder: 37
 author: Geoff Sowrey
 
 ---

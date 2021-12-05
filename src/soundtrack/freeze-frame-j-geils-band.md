@@ -1,6 +1,6 @@
 ---
 title: Freeze-Frame by The J. Geils Band
-priority: 5
+storyOrder: 5
 slug: freeze-frame-j-geils-band
 # menu: Freeze-Frame by The J. Geils Band
 date: 22-02-2020

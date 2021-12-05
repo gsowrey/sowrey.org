@@ -1,6 +1,6 @@
 ---
 title: Take Me Home by Phil Collins
-priority: 13
+storyOrder: 13
 slug: take-me-home-by-phil-collins
 # menu: Take Me Home by Phil Collins
 date: 10-04-2020

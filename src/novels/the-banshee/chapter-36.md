@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 36
 permalink: "novels/the-banshee/chapter-36/"
-priority: 36
+storyOrder: 36
 author: Geoff Sowrey
 
 ---
