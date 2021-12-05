@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 17
 permalink: "novels/the-banshee/chapter-17/"
-priority: 17
+storyOrder: 17
 author: Geoff Sowrey
 
 ---

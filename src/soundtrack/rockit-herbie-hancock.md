@@ -1,6 +1,6 @@
 ---
 title: Rockit by Herbie Hancock
-priority: 8
+storyOrder: 8
 slug: rockit-by-herbie-hancock
 # menu: Rockit by Herbie Hancock
 date: 02-03-2020

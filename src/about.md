@@ -1,6 +1,6 @@
 ---
 layout: about.hbs
-priority: 0
+storyOrder: 0
 title: 'About'
 permalink: "about"
 author:

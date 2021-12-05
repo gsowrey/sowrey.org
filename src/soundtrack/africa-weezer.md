@@ -1,6 +1,6 @@
 ---
 title: Africa by Weezer
-priority: 18
+storyOrder: 18
 slug: africa-by-Weezer
 # menu: Africa by Toto
 date: 24-09-2020

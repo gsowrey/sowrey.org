@@ -1,6 +1,6 @@
 ---
 title: Super Trouper by ABBA
-priority: 3
+storyOrder: 3
 slug: super-trouper-abba
 # menu: Super Trouper by ABBA
 date: 21-02-2020

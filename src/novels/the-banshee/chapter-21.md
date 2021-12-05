@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 21
 permalink: "novels/the-banshee/chapter-21/"
-priority: 21
+storyOrder: 21
 author: Geoff Sowrey
 
 ---

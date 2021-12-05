@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 24
 permalink: "novels/the-banshee/chapter-24/"
-priority: 24
+storyOrder: 24
 author: Geoff Sowrey
 
 ---

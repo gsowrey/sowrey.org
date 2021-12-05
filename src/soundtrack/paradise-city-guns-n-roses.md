@@ -1,6 +1,6 @@
 ---
 title: Paradise City by Guns N' Roses
-priority: 17
+storyOrder: 17
 slug: paradise-city-by-guns-n-roses
 # menu: Paradise City by Guns N' Roses
 date: 24-09-2020

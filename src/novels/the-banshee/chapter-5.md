@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 5
 permalink: "novels/the-banshee/chapter-5/"
-priority: 5
+storyOrder: 5
 author: Geoff Sowrey
 
 ---

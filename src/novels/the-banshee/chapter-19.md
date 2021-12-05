@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 19
 permalink: "novels/the-banshee/chapter-19/"
-priority: 19
+storyOrder: 19
 author: Geoff Sowrey
 
 ---

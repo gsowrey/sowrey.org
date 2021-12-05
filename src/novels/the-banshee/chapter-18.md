@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 18
 permalink: "novels/the-banshee/chapter-18/"
-priority: 18
+storyOrder: 18
 author: Geoff Sowrey
 
 ---

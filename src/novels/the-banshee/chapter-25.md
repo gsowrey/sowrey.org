@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 25
 permalink: "novels/the-banshee/chapter-25/"
-priority: 25
+storyOrder: 25
 author: Geoff Sowrey
 
 ---

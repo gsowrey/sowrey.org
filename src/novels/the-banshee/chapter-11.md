@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 11
 permalink: "novels/the-banshee/chapter-11/"
-priority: 11
+storyOrder: 11
 author: Geoff Sowrey
 
 ---

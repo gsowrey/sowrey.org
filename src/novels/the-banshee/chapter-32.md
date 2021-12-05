@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 32
 permalink: "novels/the-banshee/chapter-32/"
-priority: 32
+storyOrder: 32
 author: Geoff Sowrey
 
 ---

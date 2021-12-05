@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 29
 permalink: "novels/the-banshee/chapter-29/"
-priority: 29
+storyOrder: 29
 author: Geoff Sowrey
 
 ---

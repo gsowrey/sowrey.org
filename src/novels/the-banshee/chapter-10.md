@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 10
 permalink: "novels/the-banshee/chapter-10/"
-priority: 10
+storyOrder: 10
 author: Geoff Sowrey
 
 ---

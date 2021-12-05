@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 7
 permalink: "novels/the-banshee/chapter-7/"
-priority: 7
+storyOrder: 7
 author: Geoff Sowrey
 
 ---

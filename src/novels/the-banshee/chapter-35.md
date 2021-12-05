@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 35
 permalink: "novels/the-banshee/chapter-35/"
-priority: 35
+storyOrder: 35
 author: Geoff Sowrey
 
 ---

@@ -2,7 +2,7 @@
 title: The Banshee, Chapter 4
 description: Realizing there are things she cannot do alone, Jo goes to find help.
 permalink: "novels/the-banshee/chapter-4/"
-priority: 4
+storyOrder: 4
 author: Geoff Sowrey
 
 ---

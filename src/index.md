@@ -1,6 +1,6 @@
 ---
 layout: index.hbs
-priority: 0
+storyOrder: 0
 title: 'Let Me Tell You A Story'
 author:
     name: 'Geoff Sowrey'

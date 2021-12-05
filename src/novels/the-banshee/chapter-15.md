@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 15
 permalink: "novels/the-banshee/chapter-15/"
-priority: 15
+storyOrder: 15
 author: Geoff Sowrey
 
 ---

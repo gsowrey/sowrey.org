@@ -1,6 +1,6 @@
 ---
 title: Always Something There To Remind Me by Naked Eyes
-priority: 7
+storyOrder: 7
 slug: always-something-there-to-remind-me-by-naked-eyes
 # menu: Always Something There To Remind Me by Naked Eyes
 date: 24-02-2020

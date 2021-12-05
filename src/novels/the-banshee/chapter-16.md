@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 16
 permalink: "novels/the-banshee/chapter-16/"
-priority: 16
+storyOrder: 16
 author: Geoff Sowrey
 
 ---

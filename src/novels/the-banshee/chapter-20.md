@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 20
 permalink: "novels/the-banshee/chapter-20/"
-priority: 20
+storyOrder: 20
 author: Geoff Sowrey
 
 ---

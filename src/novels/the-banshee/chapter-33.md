@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 33
 permalink: "novels/the-banshee/chapter-33/"
-priority: 33
+storyOrder: 33
 author: Geoff Sowrey
 
 ---

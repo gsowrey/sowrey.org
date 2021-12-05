@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 8
 permalink: "novels/the-banshee/chapter-8/"
-priority: 8
+storyOrder: 8
 author: Geoff Sowrey
 
 ---

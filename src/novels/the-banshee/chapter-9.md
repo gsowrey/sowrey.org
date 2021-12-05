@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 9
 permalink: "novels/the-banshee/chapter-9/"
-priority: 9
+storyOrder: 9
 author: Geoff Sowrey
 
 ---

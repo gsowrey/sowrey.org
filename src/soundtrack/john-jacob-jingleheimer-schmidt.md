@@ -1,6 +1,6 @@
 ---
 title: John Jacob Jingleheimer Schmidt
-priority: 0
+storyOrder: 0
 slug: john-jacob-jingleheimer-schmidt
 # menu: John Jacob Jingleheimer Schmidt
 date: 21-02-2020

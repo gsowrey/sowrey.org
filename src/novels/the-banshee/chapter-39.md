@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 39
 permalink: "novels/the-banshee/chapter-39/"
-priority: 39
+storyOrder: 39
 author: Geoff Sowrey
 
 ---

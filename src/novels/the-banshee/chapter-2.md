@@ -2,7 +2,7 @@
 title: The Banshee, Chapter 2
 description: Jo goes to visit the greenhouse, then has to deal with a room of problems.
 permalink: "novels/the-banshee/chapter-2/"
-priority: 2
+storyOrder: 2
 author: Geoff Sowrey
 
 ---

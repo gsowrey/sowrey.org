@@ -2,7 +2,7 @@
 title: The Banshee, Chapter 1
 description: Welcome to the ARCH as it continues to fall apart.
 permalink: "novels/the-banshee/chapter-1/"
-priority: 1
+storyOrder: 1
 author: Geoff Sowrey
 
 ---

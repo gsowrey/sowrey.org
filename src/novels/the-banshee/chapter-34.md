@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 34
 permalink: "novels/the-banshee/chapter-34/"
-priority: 34
+storyOrder: 34
 author: Geoff Sowrey
 
 ---

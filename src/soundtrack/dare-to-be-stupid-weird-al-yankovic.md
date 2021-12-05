@@ -1,6 +1,6 @@
 ---
 title: Dare To Be Stupid by Weird Al Yankovic
-priority: 9
+storyOrder: 9
 slug: dare-to-be-stupid-by-weird-al-yankovic
 # menu: Dare To Be Stupid by Weird Al Yankovic
 date: 09-03-2020

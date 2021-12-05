@@ -1,6 +1,6 @@
 ---
 title: Hark! The Herald Angels Sing
-priority: 4
+storyOrder: 4
 slug: hark-the-herald-angels-sing
 # menu: Hark! The Herald Angels Sing
 date: 21-02-2020

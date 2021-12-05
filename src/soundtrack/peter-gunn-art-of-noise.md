@@ -1,6 +1,6 @@
 ---
 title: Peter Gunn by the Art of Noise
-priority: 10
+storyOrder: 10
 slug: peter-gunn-by-the-art-of-noise
 # menu: Peter Gunn by the Art of Noise
 date: 22-03-2020

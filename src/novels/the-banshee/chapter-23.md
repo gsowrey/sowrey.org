@@ -1,7 +1,7 @@
 ---
 title: The Banshee, Chapter 23
 permalink: "novels/the-banshee/chapter-23/"
-priority: 23
+storyOrder: 23
 author: Geoff Sowrey
 
 ---
