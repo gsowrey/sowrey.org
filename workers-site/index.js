@@ -14,25 +14,7 @@ const redirectMap = new Map([
   ["/2000/01/1999-year-in-review", "https://geoff.sowrey.org/2000/2000-01-01-year-review"],
 ])
 
-async function handleRequest(request) {
-  const requestURL = new URL(request.url)
-  console.log(requestURL)
-  const path = requestURL.pathname.split("/redirect")[1]
-  const location = redirectMap.get(path)
-  if (location) {
-    return Response.redirect(location, 301)
-  }
-  // If request not in map, return the original request
-  return fetch(request)
-}
-
 addEventListener('fetch', event => {
-  try {
-    event.respondWith(handleRequest(event.request))
-  } catch (e) {
-    event.respondWith(new Response('Redirect Error', { status: 404 }))
-  }
-
   try {
     event.respondWith(handleEvent(event))
   } catch (e) {
@@ -50,6 +32,12 @@ addEventListener('fetch', event => {
 async function handleEvent(event) {
   const url = new URL(event.request.url)
   let options = {}
+
+  const path = url.pathname.split("/redirect")[1]
+  const location = redirectMap.get(path)
+  if (location) {
+    return Response.redirect(location, 301)
+  }
 
   /**
    * You can add custom logic to how we fetch your assets
