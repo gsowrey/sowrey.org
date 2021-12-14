@@ -25,11 +25,13 @@ async function handleRequest(request) {
   return fetch(request)
 }
 
-addEventListener("fetch", async event => {
-  event.respondWith(handleRequest(event.request))
-})
-
 addEventListener('fetch', event => {
+  try {
+    event.respondWith(handleRequest(event.request))
+  } catch (e) {
+    event.respondWith(new Response('Redirect Error', { status: 404 }))
+  }
+
   try {
     event.respondWith(handleEvent(event))
   } catch (e) {
