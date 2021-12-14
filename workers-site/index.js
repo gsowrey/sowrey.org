@@ -33,8 +33,7 @@ async function handleEvent(event) {
   const url = new URL(event.request.url)
   let options = {}
 
-  const path = url.pathname.split("/redirect")[1]
-  const location = redirectMap.get(path)
+  const location = redirectMap.get(url.pathname)
   if (location) {
     return Response.redirect(location, 301)
   }
