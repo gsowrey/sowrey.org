@@ -5,6 +5,7 @@ const collections = require('metalsmith-collections');
 const permalinks = require('metalsmith-permalinks');
 const wordcount = require("metalsmith-word-count");
 const sitemap = require("metalsmith-sitemap");
+const assets = require('metalsmith-assets');
 const handlebars = require('handlebars');
 const fs = require('fs');
 const { exit } = require('process');
