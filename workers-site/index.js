@@ -16,6 +16,7 @@ const redirectMap = new Map([
 
 async function handleRequest(request) {
   const requestURL = new URL(request.url)
+  console.log(requestURL)
   const path = requestURL.pathname.split("/redirect")[1]
   const location = redirectMap.get(path)
   if (location) {
