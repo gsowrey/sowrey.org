@@ -99,6 +99,10 @@ Metalsmith(__dirname)
     hostname: 'https://sowrey.org/',
     priority: 0.5
   }))
+  .use(assets({
+    source: __dirname + '/assets/',
+    destination: './'
+  }))
   .build(function (err, files) {
     //console.log(files);
     if (err) {
