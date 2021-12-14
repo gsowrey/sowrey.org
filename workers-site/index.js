@@ -9,6 +9,26 @@ import { getAssetFromKV, mapRequestToAsset } from '@cloudflare/kv-asset-handler'
  */
 const DEBUG = false
 
+const redirectMap = new Map([
+  ["/1989/", "https://geoff.sowrey.org/archives#1989"],
+  ["/2000/01/1999-year-in-review", "https://geoff.sowrey.org/2000/2000-01-01-year-review"],
+])
+
+async function handleRequest(request) {
+  const requestURL = new URL(request.url)
+  const path = requestURL.pathname.split("/redirect")[1]
+  const location = redirectMap.get(path)
+  if (location) {
+    return Response.redirect(location, 301)
+  }
+  // If request not in map, return the original request
+  return fetch(request)
+}
+
+addEventListener("fetch", async event => {
+  event.respondWith(handleRequest(event.request))
+})
+
 addEventListener('fetch', event => {
   try {
     event.respondWith(handleEvent(event))
