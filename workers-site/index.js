@@ -388,8 +388,14 @@ addEventListener('fetch', event => {
 async function handleEvent(event) {
   const url = new URL(event.request.url)
   let options = {}
+
   url.pathname.replace(/\/$/, "")
   const location = redirectMap.get(url.pathname)
+
+  if (url.hostname.includes("www")) {
+    location = "https://sowrey.org" + url.pathname;
+  }
+  
   if (location) {
     return Response.redirect(location, 301)
   }
