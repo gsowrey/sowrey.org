@@ -392,9 +392,9 @@ async function handleEvent(event) {
   url.pathname.replace(/\/$/, "")
   const location = redirectMap.get(url.pathname)
 
-  if (url.hostname.includes("www")) {
-    location = "https://sowrey.org" + url.pathname;
-  }
+  //if (url.hostname.includes("www")) {
+  //  location = "https://sowrey.org" + url.pathname;
+  //}
   
   if (location) {
     return Response.redirect(location, 301)
