@@ -4,27 +4,36 @@ name: Deploy
 on:
   push:
     branches:
-      - master
+      - hugo
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    name: Deploy
-    strategy:
-      matrix:
-        node-version: [10.x]
-
+  
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    
     steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
         with:
-          node-version: ${{ matrix.node-version }}
-      - run: npm install
-      - uses: actions/checkout@master
-      - name: Build site
-        run: "npm run build"
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
       - name: Publish
-        uses: cloudflare/wrangler-action@1.1.0
+        uses: cloudflare/pages-action@v1
         with:
-          apiToken: ${{ secrets.CF_API_TOKEN }}
+          apiToken: ${{ secrets.CF_PAGES_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          projectName: 'sowrey-org'
+          directory: ./public
+          branch: ''
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
