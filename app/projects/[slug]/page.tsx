@@ -3,16 +3,36 @@ import {notFound} from 'next/navigation'
 
 import {ContactSection} from '../../../components/contact-section'
 import {client} from '../../../lib/sanity/client'
-import {projectBySlugQuery} from '../../../lib/sanity/queries'
+import {allProjectsQuery, projectBySlugQuery} from '../../../lib/sanity/queries'
 import type {Project} from '../../../lib/sanity/types'
 
 type ProjectPageProps = {
   params: Promise<{slug: string}>
 }
 
+export async function generateStaticParams() {
+  let projects: Project[] = []
+
+  try {
+    projects = await client.fetch<Project[]>(allProjectsQuery)
+  } catch (error) {
+    console.error('Failed to fetch project slugs from Sanity', error)
+  }
+
+  return projects
+    .filter((project) => project.slug?.current)
+    .map((project) => ({slug: project.slug.current}))
+}
+
 export default async function ProjectPage({params}: ProjectPageProps) {
   const {slug} = await params
-  const project = await client.fetch<Project | null>(projectBySlugQuery, {slug})
+  let project: Project | null = null
+
+  try {
+    project = await client.fetch<Project | null>(projectBySlugQuery, {slug})
+  } catch (error) {
+    console.error(`Failed to fetch project ${slug} from Sanity`, error)
+  }
 
   if (!project) {
     notFound()

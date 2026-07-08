@@ -30,6 +30,12 @@ Required values:
 - `BREVO_API_KEY`
 - `CONTACT_TO_EMAIL`
 - `CONTACT_FROM_EMAIL`
+- `NEXT_PUBLIC_RECAPTCHA_SITE_KEY`
+- `RECAPTCHA_SECRET_KEY`
+
+Optional value:
+
+- `RECAPTCHA_MIN_SCORE` (defaults to `0.5`)
 
 ## Development
 

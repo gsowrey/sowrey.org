@@ -9,7 +9,13 @@ export const metadata = {
 }
 
 export default async function ProjectsPage() {
-  const projects = await client.fetch<Project[]>(allProjectsQuery)
+  let projects: Project[] = []
+
+  try {
+    projects = await client.fetch<Project[]>(allProjectsQuery)
+  } catch (error) {
+    console.error('Failed to fetch projects from Sanity', error)
+  }
 
   return (
     <main>

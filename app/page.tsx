@@ -7,7 +7,13 @@ import {featuredProjectsQuery} from '../lib/sanity/queries'
 import type {Project} from '../lib/sanity/types'
 
 export default async function HomePage() {
-  const projects = await client.fetch<Project[]>(featuredProjectsQuery)
+  let projects: Project[] = []
+
+  try {
+    projects = await client.fetch<Project[]>(featuredProjectsQuery)
+  } catch (error) {
+    console.error('Failed to fetch featured projects from Sanity', error)
+  }
 
   return (
     <main>

@@ -1,4 +1,6 @@
 :root {
+  --font-heading: 'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-body: 'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --ink: #182632;
   --ink-soft: #395266;
   --surface: #f3f1e9;

@@ -1,20 +1,7 @@
 import type {Metadata} from 'next'
-import {IBM_Plex_Sans, Sora} from 'next/font/google'
 import Link from 'next/link'
 
 import './globals.css'
-
-const heading = Sora({
-  subsets: ['latin'],
-  weight: ['600', '700'],
-  variable: '--font-heading',
-})
-
-const body = IBM_Plex_Sans({
-  subsets: ['latin'],
-  weight: ['400', '500', '600'],
-  variable: '--font-body',
-})
 
 export const metadata: Metadata = {
   title: 'Sowrey Digital Transformation Consulting',
@@ -28,7 +15,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en" className={`${heading.variable} ${body.variable}`}>
+    <html lang="en">
       <body>
         <div className="site-shell">
           <div className="container">
